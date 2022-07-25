@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ThisIsBond
 - 👀 I’m interested in Web and Mobile Development.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on ...
 - 📫 mail : joshisaurabh963@gmail.com
 
 <!---
